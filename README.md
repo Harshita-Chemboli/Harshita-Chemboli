@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harshita Chemboli  
 
-🎓 Final-year **Computer Science and Engineering (CSE)** student at **GITAM Deemed to be University**, Visakhapatnam, India (CGPA: 9.56).  
+🎓 Final-year **Computer Science and Engineering (CSE)** student at **GITAM Deemed to be University**, Visakhapatnam, Andhra Pradesh, India.  
 💡 Passionate about **XR development, AI/ML, web applications, and research-driven projects**.  
 ⚡ Energetic, detail-oriented, and driven by curiosity — always seeking to learn, build, and contribute to impactful technology.  
 
