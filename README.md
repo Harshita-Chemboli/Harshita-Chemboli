@@ -67,8 +67,7 @@
 ---
 
 ## 📬 Connect with Me
-- 📧 Email: **chemboliharshita@gmail.com**  
-- 📞 Phone: **+91 8121593259**  
+- 📧 [Email] (mailto:chemboliharshita@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/harshitachemboli)  
 - 💻 [GitHub](https://github.com/harshitachemboli)  
 
