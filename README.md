@@ -67,7 +67,7 @@
 ---
 
 ## 📬 Connect with Me
-- 📧 [Email] (mailto:chemboliharshita@gmail.com)  
+- 📧 [Email](chemboliharshita@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/harshitachemboli)  
 - 💻 [GitHub](https://github.com/harshitachemboli)  
 
