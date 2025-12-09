@@ -68,8 +68,7 @@
 
 ## 📬 Connect with Me
 - 📧 [Email](mailto:chemboliharshita@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/harshitachemboli)  
-- 💻 [GitHub](https://github.com/harshitachemboli)  
+- 🔗 [LinkedIn](https://linkedin.com/in/harshitachemboli) 
 
 ---
 ⭐ *“Committed to continuous learning, creativity, and building technology that makes a difference.”*  
