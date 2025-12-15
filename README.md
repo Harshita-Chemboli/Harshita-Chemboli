@@ -37,6 +37,7 @@
 ---
 
 ## 🏆 Achievements
+- ⚡ **NPTEL Domain Scholar(Jul–Dec 2025)** 
 - 🌟 **NPTEL Discipline Star (Jan–Apr 2025)**  
 - 📚 **NPTEL Motivated Learner (Jul–Dec 2024)**  
 - 🥈 **2nd Place – Technova Hackathon** (Aero Astro Club GITAM, Aug 2024)  
